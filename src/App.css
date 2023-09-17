@@ -1,0 +1,15 @@
+body {
+  background-color: aqua;
+}
+
+.App {
+  text-align: center;
+}
+
+.correct {
+  color: green;
+}
+
+.incorrect {
+  color: red
+}
